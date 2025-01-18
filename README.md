@@ -4,4 +4,4 @@
 - INSERIRE regioni con le relative province ,comini e citta
 - Iricercare province,comi e citta
 
-  NOTA: UTILIZZA UN PATTERN MVC AL LIVELLO PRESENtaction e un dao per accesso al db , che crea un orm
+  NOTA: UTILIZZA UN PATTERN MVC , al livello Business crea una classe di servizio per la gesione delle operazioni e un dao per accesso al db , che crea un orm
